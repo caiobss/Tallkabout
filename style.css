@@ -155,7 +155,7 @@ main .principal-main{
     display: flex;
 }
 .card-img{
-    background-color: rgba(0, 0, 0, 0.76);
+    background-color: rgba(0, 0, 0, 0.836);
     position: relative;
     height: 20rem;
     width: 140rem;
