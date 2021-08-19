@@ -165,6 +165,14 @@ main .principal-main{
 @media (max-width:999px){
     .card{
         flex-wrap: wrap;
+        margin: 7rem 0;
+    
+    }
+    .card-img{
+        border-radius:0;
+    }
+    .card-img img{
+        border-radius: 0;
     }
     .card-info{
         word-wrap: break-word;
