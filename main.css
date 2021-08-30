@@ -1,5 +1,9 @@
 @charset "UTF-8";
 /*css da sugunda fase de navegação*/
+body {
+  overflow-x: hidden;
+}
+
 .sessao-information {
   height: 35rem;
   width: 100%;
